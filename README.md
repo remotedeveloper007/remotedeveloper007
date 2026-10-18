@@ -1,4 +1,4 @@
-[https://drive.google.com/file/d/1tEeYcYpGnZL7vJTv6NRmBGx60_bOZAv3/view](https://drive.google.com/file/d/1tEeYcYpGnZL7vJTv6NRmBGx60_bOZAv3/view)
+![image](https://github.com/user-attachments/assets/05b65a10-8da9-402a-bb74-6069a2cf8410)
 
 ## About me ✍️
 
