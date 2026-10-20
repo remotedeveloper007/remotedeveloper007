@@ -1,8 +1,9 @@
-![image](https://github.com/user-attachments/assets/05b65a10-8da9-402a-bb74-6069a2cf8410)
 ## About me ✍️
+![image](https://github.com/user-attachments/assets/05b65a10-8da9-402a-bb74-6069a2cf8410)
 <!-- <img width="2056" height="975" alt="Image" src="https://github.com/user-attachments/assets/05b65a10-8da9-402a-bb74-6069a2cf8410" /> -->
+## Hey there!👋 
 
-**Hey there!** 👋 I'm a PHP Laravel Developer with 4+ years of professional experience building, maintaining, and improving web applications and RESTful APIs.
+I'm a **PHP Laravel Developer** with 4+ years of professional experience building, maintaining, and improving web applications and RESTful APIs.
 
 I specialize in PHP, Laravel, and CodeIgniter, with strong experience in MySQL, PostgreSQL, MVC architecture, OOP, Eloquent ORM, authentication, API development, and database optimization.
 
